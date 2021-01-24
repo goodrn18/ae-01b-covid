@@ -130,7 +130,9 @@ ggplot(data = country_data,
     caption = "Source: github.com/RamiKrispin/coronavirus"
   )
 ```
+
 ## References {#references}
+
 1. Assignment Adapted from [Mine Cetinkaya-Rundel's Data Science in a Box](https://github.com/rstudio-education/datascience-box)
 
 ## Appendix
